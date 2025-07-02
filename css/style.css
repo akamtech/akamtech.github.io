@@ -5,6 +5,10 @@
     --dark: #1A2A36;
 }
 
+
+html {
+  scroll-behavior: smooth;
+}
 .fw-medium {
     font-weight: 500 !important;
 }
@@ -66,6 +70,8 @@
     width: 48px;
     height: 48px;
 }
+
+
 
 .btn-square,
 .btn-sm-square,
